@@ -87,3 +87,21 @@ http://www.socialmetrics.co.kr/campaign.html
 
 빅데이터 사이트 3 : 서울 열린 데이터 광장
 http://data.seoul.go.kr/
+
+공공데이터포털 http://www.data.go.kr/   
+서울열린데이터광장 http://data.seoul.go.kr/   
+국가통계포털 http://kosis.kr/   
+금융 데이터 https://www.bigdata-finance.kr/main.do   
+
+뉴스 https://www.bigkinds.or.kr/   
+style="font-size:1rem;">소셜메트릭스 http://some.co.kr/   
+
+한국 건강진흥원 http://www.kihf.or.kr/lay1/S1T75C169/contents.do   
+보건의료 http://opendata.hira.or.kr/home.do   
+영화진흥위원회 http://www.kofic.or.kr/kofic/business/infm/introBoxOffice.do   
+
+캐글 데이터 https://www.kaggle.com/datasets   
+style="font-size:1rem;">미국 공공 데이터 http://www.data.gov/   
+Quandl http://www.quandl.com/
+
+
