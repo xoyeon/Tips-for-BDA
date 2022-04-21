@@ -104,4 +104,80 @@ style="font-size:1rem;">소셜메트릭스 http://some.co.kr/
 style="font-size:1rem;">미국 공공 데이터 http://www.data.gov/   
 Quandl http://www.quandl.com/
 
+공공데이터포털 http://www.data.go.kr/
+서울열린데이터광장 http://data.seoul.go.kr/
+국가통계포털 http://kosis.kr/
+금융 데이터 https://www.bigdata-finance.kr/main.do
+
+뉴스 https://www.bigkinds.or.kr/
+소셜메트릭스 some.co.kr
+
+한국 건강진흥원 http://www.kihf.or.kr/lay1/S1T75C169/contents.do
+보건의료 http://opendata.hira.or.kr/home.do
+영화진흥위원회 http://www.kofic.or.kr/kofic/business/infm/introBoxOffice.do
+
+UCI Dataset https://archive.ics.uci.edu/ml/datasets.php
+
+캐글 데이터 https://www.kaggle.com/datasets
+미국 공공 데이터 http://www.data.gov/
+Quandl http://www.quandl.com/
+
+통계청 마이크로데이터 https://mdis.kostat.go.kr/index.do
+
+공모전
+https://compas.lh.or.kr/
+https://www.startupidea.kr/
+https://dacon.io/
+https://arena.kakao.com/
+
+https://bd.kma.go.kr/kma2020/dta/edu/KBP57200_Python.do?menuCd=F040303000
+
+-----4/14 20시 26분 추가 --------------------------------------------
+
+정부 공개 데이터]
+
+1.한국 공공데이터 포털 https://www.data.go.kr/
+
+2.일본통계국: http://www.stat.go.jp/
+
+3.미국정부 공개자료 : https://www.data.gov/
+
+4.영국 국립 데이터센터: https://data.gov.uk/
+
+5.EU정보플랫폼 : https://www.europeandataportal.eu/
+
+6.중국국립데이터센터 : http://data.stats.gov.cn/
+
+7.홍콩정부 데이터센터 : https://data.gov.hk/ja/
+
+8.대만정부 정보공개 플랫폼 : https://data.gov.tw/
+
+9. 통합 데이터 포털 https://opendatainception.io/
+
+
+
+[국제조직 통계데이터]
+
+10.경제협력개발기구(OECD) 데이터베이스: https://data.oecd.org/
+
+11. 세계은행 공개정보 : https://data.worldbank.org/
+
+12. 세계보건기구 : http://apps.who.int/gho/data/node.home
+
+
+
+[기업/플랫폼 데이터베이스]
+
+13.github : https://github.com/awesomedata/awesome-public-datasets
+
+14. Google BigQuery 공개 데이터셋 : https://cloud.google.com/bigquery/public-data/
+
+15. 유튜브 데이터셋 : https://research.google.com/youtube8m/index.html
+
+16. 구글 오픈데이터 검색 : http://www.google.com/publicdata/directory?hl=en_US&dl=ja
+
+17.Google Trend Search : https://trends.google.com/trends/
+
+18. 아마존 aws: https://aws.amazon.com/cn/datasets/
+
 
